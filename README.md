@@ -17,7 +17,6 @@ This app allows users to create, read, update, and delete tasks, with data store
 
 ## 🛠 Tech Stack
 **Frontend:** React.js
-
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB  
 **Others:** Mongoose, Nodemon
