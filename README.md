@@ -16,10 +16,10 @@ This app allows users to create, read, update, and delete tasks, with data store
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** React.js, Tailwind CSS.  
-**Backend:** Node.js, Express.js.  
-**Database:** MongoDB.   
-**Others:** Mongoose, Nodemon.  
+**Frontend:** React.js, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Others:** Mongoose, Nodemon  
 
 
 ## 🚀 Installation & Setup
